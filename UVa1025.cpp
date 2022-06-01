@@ -1,5 +1,6 @@
 //date:20220525
 //problem name: A Spy in the Metro
+//type: dynamics programming
 //author: jackgnez
 #include "bits/stdc++.h";
 using namespace std;
